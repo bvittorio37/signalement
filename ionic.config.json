@@ -1,0 +1,8 @@
+{
+  "name": "Cloud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "525d6c09"
+}
